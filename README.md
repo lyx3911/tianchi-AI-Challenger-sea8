@@ -80,6 +80,16 @@ score:97.43
 
 排名81/3691
 
+## 感想
+
+第一次打比赛，天池的这个比赛对新人比较友好，不需要配置很复杂的环境，而且一张2080Ti足够我训练模型，有一个能让我快速上手的baseline，给我增加了不少信心。打比赛能快速学到很多知识，钉钉群里也结交了很多大佬。
+
+不得不说排行榜还是有点卷，最后我们大约再提升个0.3就能进决赛了，可是97分以上再提升一点就很难。赛后看了决赛圈大佬的方法，发现和我的相差无几，最后可能就是差点运气，还是有点遗憾。
+
+## TOP方案总结
+
+// TODO
+
 ## Reference
 
 - [vtddggg/training_template_for_AI_challenger_sea8: Example code of [Tianchi AAAI2022 Security AI Challenger Program Phase 8\] (github.com)](https://github.com/vtddggg/training_template_for_AI_challenger_sea8)
